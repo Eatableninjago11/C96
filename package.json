@@ -1,0 +1,16 @@
+{
+    "dependencies": {
+      "firebase": "8.2.3",
+      "@firebase/app": "0.x.0",
+      "expo-constants": "~11.0.2",
+      "@expo/vector-icons": "^12.0.0",
+      "react-native-paper": "4.9.2",
+      "@firebase/firestore": "*",
+      "react-native-screens": "~3.4.0",
+      "@react-navigation/stack": "*",
+      "@react-navigation/native": "6.0.0",
+      "react-native-gesture-handler": "~1.10.2",
+      "@react-navigation/bottom-tabs": "*",
+      "react-native-safe-area-context": "3.2.0"
+    }
+  }
